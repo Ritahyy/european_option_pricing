@@ -1,4 +1,4 @@
-#European Options Pricing
+##European Options Pricing
 
 In my other repository of "Forecasting Future Stock Prices", we have rather intuitional methods of forecasting future prices using historical simulation. However, as discussed, there are many limitations to those methods. Hence, we explore these more advanced models, namely Black-Scholes model, Laplace Transform and Monte Carlo Simulation. 
 The parameters in all models can be changed accordingly as desired. 
